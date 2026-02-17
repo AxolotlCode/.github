@@ -94,9 +94,3 @@ They adapt.
 They evolve.
 
 We build software that does the same.
-
----
-
-<p align="center">
-  Built with consistency, not hype.
-</p>
